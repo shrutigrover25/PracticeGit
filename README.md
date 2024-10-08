@@ -1,4 +1,4 @@
 # PracticeGit
 
-## This is the demo file for feature-1
+## This is a conflicting change in the `feature-2` branch.
 
